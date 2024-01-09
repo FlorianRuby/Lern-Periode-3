@@ -27,33 +27,35 @@ Max Muster
 ## 16.1 und 23.1.2024
 
 - [ ] auf API in VS zugreifen
-- [ ] json Datei auslesen 
-- [ ] auf json Datei zugreifen
+- [ ] json Datei auslesen & auf Json Datei zugreifen
+- [ ] mit API werten rechnen
 - [ ] Portfolio Funktion
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
 | 1              | Postman API key      | API Code       | Daten Ausgabe als Json |          |
-| 2              |                      |                |                |          |
-| 3              |                      |                |                |          |
-| 4              |                      |                |                |          |
+| 2              | Json Datei           | CHF            | CHF - EUR Kurs |          |
+| 3              | Zugriff auf API Werte | CHF & USD     | CHF - USD Kurs |          |
+| 4              | Datei mit Portfolio Daten | CHF | Listet CHF bestand auf, ändert oder erstellt neuen Bestand falls noch nicht vorhanden |          |
 
+*Bei 2 kann nur mit EUR umgerrechnet werden, da dies hier die Basiswährung ist. Es kann also nicht CHF - USD gerrechnet werden, bei 3 jedoch schon.
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 23.1.2024
 
-- [ ] 
-- [ ] ...
-
-- [ ] Ausgabe formatieren (sortieren nach grösse)
+- [ ] Ganzes Portfolio in CHF anzeigen lassen
+- [ ] Portfolio Ausgabe nach Menge sortieren (CHF Menge)
+- [ ] Am Anfang alle Funktionen und jeweilige Befehle listen 
+- [ ] Projekt abschliessen & alles nochmal testen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 5               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 8               |                      |                |                |          |
+| 5               | Portfolio Daten      | lp (list portfolio) | gesamtes Portfolio in CHF |          |
+| 6               | Portfolio Ausgabe + Daten | lp (list portfolio) | gesamtes Portfolio in CHF, sortiert nach der Menge |          |
+| 7               | Nichts               | Programm starten | Alle Funktionen und Befehle formatiert gelistet  |          |
+| 8               | fertiger Code | jeweilige inputs für die Tests | gewollte Outputs  |          |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
