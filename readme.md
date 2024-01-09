@@ -22,18 +22,20 @@ Max Muster
 
 ## 9.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️Heute habe ich mich dazu entschieden mein Währungsrechner Projekt weiter zu schreiben und es fertig zu stellen. Ich habe mir zuerst angeschaut wir weit ich bin und habe mich mit dem Programm vertraut gemacht. Mein derzeitiger Standpunkt ist, dass ich Währungen eintragen kann und am Ende alle auflisten kann aber ich kann noch nicht auf die API zugreifen und mit den Währungen rechnen. 
 
 ## 16.1 und 23.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] auf API in VS zugreifen
+- [ ] json Datei auslesen 
+- [ ] auf json Datei zugreifen
+- [ ] Portfolio Funktion
 
-| estfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              |                      |                |                |          |
-| ...            |                      |                |                |          |
+| 1              | Postman API key      | API Code       | Daten Ausgabe als Json |          |
+| 2              |                      |                |                |          |
+| 3              |                      |                |                |          |
 | 4              |                      |                |                |          |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
@@ -42,10 +44,10 @@ Max Muster
 
 ## 23.1.2024
 
-- [ ] Fünftes AP
+- [ ] 
 - [ ] ...
 
-- [ ] Achtes AP
+- [ ] Ausgabe formatieren (sortieren nach grösse)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
