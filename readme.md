@@ -11,6 +11,7 @@ Max Muster
    *Zurzeit habe ich in Informatik einen 5.67 Schnitt, wobei ich bisher nur 6er und einen 5er in dem Modul M162 hatte.*
 
 3. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+
    *Im der letzten LP habe ich mir vorgenommen im nächsten LP strikter zu arbeiten, also meine vorgenommenen Projekte tatsächlich auch fertig zustellen anstatt an anderen Projekten zu arbeiten, welche eigentlich nichts mit dem Lernatelier zu tun haben*
 
 5. Was wäre ein geeignetes Projekt würd diese LP3?
