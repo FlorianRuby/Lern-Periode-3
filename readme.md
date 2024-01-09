@@ -13,7 +13,7 @@ Max Muster
    *Im der letzten LP habe ich mir vorgenommen im nächsten LP strikter zu arbeiten, also meine vorgenommenen Projekte tatsächlich auch fertig zustellen anstatt an anderen Projekten zu arbeiten, welche eigentlich nichts mit dem Lernatelier zu tun haben*
 
 3. Was wäre ein geeignetes Projekt würd diese LP3?
-   *Den Währungsrechner mit der API fertig zu stellen*
+*Den Währungsrechner mit der API fertig zu stellen*
 
 ## 9.1.2024
 
