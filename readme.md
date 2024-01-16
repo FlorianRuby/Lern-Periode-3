@@ -26,9 +26,9 @@ Max Muster
 
 ## 16.1 und 23.1.2024
 
-- [ ] auf API in VS zugreifen
-- [ ] json Datei auslesen & auf Json Datei zugreifen
-- [ ] mit API werten rechnen
+- [X] auf API in VS zugreifen
+- [X] json Datei auslesen & auf Json Datei zugreifen
+- [X] mit API werten rechnen
 - [ ] Portfolio Funktion
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
