@@ -33,13 +33,14 @@ Max Muster
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | -------------- | -------------------- | -------------- | -------------- | -------- |
-| 1              | Postman API key      | API Code       | Daten Ausgabe als Json |          |
-| 2              | Json Datei           | CHF            | CHF - EUR Kurs |          |
-| 3              | Zugriff auf API Werte | CHF & USD     | CHF - USD Kurs |          |
+| 1              | Postman API key      | API Code       | Daten Ausgabe als Json | Ja |
+| 2              | Json Datei           | CHF            | CHF - EUR Kurs | Ja |
+| 3              | Zugriff auf API Werte | CHF & USD     | CHF - USD Kurs | Ja |
 | 4              | Datei mit Portfolio Daten | CHF | Listet CHF bestand auf, ändert oder erstellt neuen Bestand falls noch nicht vorhanden |          |
 
 *Bei 2 kann nur mit EUR umgerrechnet werden, da dies hier die Basiswährung ist. Es kann also nicht CHF - USD gerrechnet werden, bei 3 jedoch schon.
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+
+✍️ Heute am 16.1 habe ich weiter an dem Fremdwährungsrechner gearbeitet und habe die API implementiert. Ich kann nun mit allen verschiedenen Kursen rechnen also auch mit CHF - USD als Beispiel. Ich habe ausserdem die Portfolio Funktion, welche ich davor schon programmiert habe mit readfile kompatibel gemacht und ich sehe nun gespeierte Werte.
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
