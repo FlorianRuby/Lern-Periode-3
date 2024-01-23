@@ -58,7 +58,7 @@ Max Muster
 | 7               | Nichts               | Programm starten | Alle Funktionen und Befehle formatiert gelistet  |          |
 | 8               | fertiger Code | jeweilige inputs für die Tests | gewollte Outputs  |          |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute am 23.1 habe ich probiert weiter an dem Code zu arbeiten aber schon als ich ihn das erste mal getestet hab ging er nicht und gab falsche Werte bei der Kursabfrage durch. Ich habe alles probiert aber ich bekam immer nur falsche Werte obwohl es genau der gleiche Code ist wie der vor einer Woche, bei welchem alles noch ging. Ich konnte aufgrund dessen nicht weiterarbeiten und habe heute den ganzen Tag lang probiert dieses Problem zu fixxen aber ich habe es nicht geschafft. 
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
